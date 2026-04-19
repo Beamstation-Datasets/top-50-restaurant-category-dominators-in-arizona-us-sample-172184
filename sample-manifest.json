@@ -1,12 +1,12 @@
 {
-  "export_job_id": "12a792f8-76c8-4350-b594-b9969de119be",
+  "export_job_id": "b773d75c-88c3-4b75-9686-288b83abf072",
   "id_short": 172184,
-  "published_at": "2026-04-17T07:14:46Z",
+  "published_at": "2026-04-19T07:20:33Z",
   "repo_name": "top-50-restaurant-category-dominators-in-arizona-us-sample-172184",
   "sample_asset_name": "beamstation_172184_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/172184/beamstation_172184_restaurants-us-az_SAMPLE_DIST.csv",
   "sample_records": 4,
   "sample_sha256": "9ab147ae7d0d1712d3e5029f29f6d529cf0be2e875c38abd7dbd52691ec7335c",
   "sample_size_bytes": 33355,
-  "total_records": 50
+  "total_records": 49
 }
